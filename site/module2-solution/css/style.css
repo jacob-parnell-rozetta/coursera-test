@@ -11,6 +11,8 @@
 .menu{
   text-align: center;
   margin-bottom: 30px;
+  font-size: 50px;
+  color: darkred;
 }
 
 .container{
@@ -25,7 +27,7 @@
   background-color:#999999;
   margin: 15px;
   padding: 25px;
-  border: 3px solid #000;
+  border: 1px solid #000;
 }
 
 .item p{
@@ -40,20 +42,24 @@
   right: 0px;
   background: green; 
   padding: 6px 90px;
-  border-left: 2px solid #000;
-  border-bottom: 2px solid #000;
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
 }
 
 #title-chicken {
   background-color: #D59898;
+  font-size: 18px;
 } 
 
 #title-beef {
   background-color: #C14543;
+  font-size: 18px;
+  color: white;
 }
 
 #title-sushi {
   background-color: #E5D198;
+  font-size: 18px;
 }
 
 /*------ Desktop ------*/
